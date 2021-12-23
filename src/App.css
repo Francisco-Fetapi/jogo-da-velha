@@ -1,0 +1,69 @@
+:root{
+    --jogador1:rgb(241, 60, 60);
+    --jogador2:rgb(41, 102, 235);
+}
+#root{
+    background-color: rgba(0, 0, 0, 0.863);
+    height: 100vh;
+}
+.App{
+    max-width: 450px;
+    margin: 0 auto;
+}
+.logo{
+    position: relative;   
+}
+.bloco{
+    width:35px;
+    height: 35px;
+    border-radius: 50%;
+    margin: 4px;
+    border: 1px solid #333;
+    position: fixed;
+    top: 0;
+    transition: all .5s linear;
+}
+.bloco-O{
+    right: 0;
+    background-color: var(--jogador2);
+}
+.bloco-X{
+    left:0;
+    background-color: var(--jogador1);
+}
+.App{
+    height: 100vh;
+}
+.Quadro{
+    width:80%;
+    margin: 0 auto;
+}
+.terminado{
+    opacity: .4;
+    cursor: not-allowed;
+}
+.grid_item{
+    display: flex;
+    width: 120px;
+    font-family: cursive;
+    font-size: 75px;
+    box-shadow: 1px 1px 9px #aaa;
+    height:120px;
+    align-items: center;
+    justify-content: center;
+}
+.grid-container:not(.terminado){
+    cursor: pointer;
+}
+.O{
+    color: var(--jogador2);
+}
+.X{
+    color: var(--jogador1);
+}
+.seqVencedora-O{
+    border: 8px solid var(--jogador2);
+}
+.seqVencedora-X{
+    border: 8px solid var(--jogador1);
+}
