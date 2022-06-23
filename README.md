@@ -14,4 +14,4 @@ Ao criar este projeto o meu objetivo foi `PENSAR EM REACT`, puder construir com 
 
 ##
 
-<a href="http://jogo-da-velha-nine.vercel.app/">Clique aqui se desejas ver o projeto rodando</a>
+<a href="http://jogo-da-velha-fetapi.vercel.app/">Clique aqui se desejas ver o projeto rodando</a>
