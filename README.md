@@ -7,9 +7,9 @@
 <a href="https://github.com/Francisco-Fetapi/jogo-da-velha"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/jogo-da-velha?style=plastic"></a>
 </p>
 
-![asset4](https://user-images.githubusercontent.com/74926014/175071946-96ef76d9-fefb-457a-8137-15d1bf555d3d.PNG)
-
 Nos meados de 2021 depois de alguns meses estudando o `Jquery`, finalmente conheci o `React`, uma tecnologia que mudou a maneira como eu **penso** e **desenvolvo** meus projetos até hoje. Depois de semanas estudando o React, achei por bem recriar alguns dos projetos que eu já tinha feito com `Jquery` usando o `React` e essa é a razão desse projeto existir.
+
+![asset4](https://user-images.githubusercontent.com/74926014/175071946-96ef76d9-fefb-457a-8137-15d1bf555d3d.PNG)
 
 Uma solução antiga criada com `Jquery` está em: <a href="https://github.com/Francisco-Fetapi/jogo-da-velha-html-css-js">Jogo da Velha</a>
 
