@@ -1,4 +1,11 @@
 # Calculadora (React)
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/jogo-da-velha/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/jogo-da-velha?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/jogo-da-velha"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/jogo-da-velha/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/jogo-da-velha?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/jogo-da-velha/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/jogo-da-velha?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/jogo-da-velha"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/jogo-da-velha?style=plastic"></a>
+</p>
 
 ![asset4](https://user-images.githubusercontent.com/74926014/175071946-96ef76d9-fefb-457a-8137-15d1bf555d3d.PNG)
 
